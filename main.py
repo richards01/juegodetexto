@@ -3,7 +3,7 @@ jugador = input("Ingrese su nombre: ")
 
 # Imprime un mensaje de bienvenida con el nombre del jugador
 print(f"Bienvenid@ al juego de laberintos, {jugador}!")
-
+#  utilizando readchear programa que corra un bucle infinito leyendo e imprimiento las teclas y sólo terminará cuando se presione la tecla ↑ indicada como UP
 import readchar
 
 def main():
